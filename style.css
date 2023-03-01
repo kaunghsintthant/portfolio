@@ -1,0 +1,39 @@
+body {background-color: white;
+}
+
+#list {background-color: green;}
+
+
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 10px solid black;
+  }
+  .one {
+    background-color: red;
+    display: none;
+  }
+  .two {
+    background-color: green;
+  }
+  .three {
+    background-color: blue;
+  }
+  .four {
+    background-color: blueviolet;
+  }
+
+  #heading{color : greenyellow;}
+  
+  
+  
+  
+  
+  
+  
+  
